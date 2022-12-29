@@ -69,6 +69,7 @@ while loop:
 ''')
 
             print("========================================")
+
             else:
                 rmenu = input("Cancelado, voltar ao menu? (y/n): ")
                 if rmenu == "y":
