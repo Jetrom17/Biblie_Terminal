@@ -68,8 +68,7 @@ while loop:
  '----------------' 
 ''')
 
-            print("========================================")
-
+            print("Holy Bible")
             else:
                 rmenu = input("Cancelado, voltar ao menu? (y/n): ")
                 if rmenu == "y":
