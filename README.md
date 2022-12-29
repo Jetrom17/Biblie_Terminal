@@ -2,12 +2,12 @@
 
 Bem vindo!
 
-Bíblia funciona em maioria dos terminais baseado em Linux (Unix).
+Bíblia funciona em maioria dos terminais baseado em Linux (Unix). Para procurar uma palavra no texto, use `/`. Use `h` para pedir ajuda quando tiveres lendo.
 
 - 🇧🇷 pt-br
 - 🌐 en
 
-Em dois tipos de idiomas estão inseridos. Funciona 💯 offline os ".txt. Algumas outras ferramentas foram implementadas, como acesso API. Experimente. Contribue, assim será possível outros países que não tem acesso a Bíblia Sagrada, mas tem acesso ao GitHub, podem baixar a Bíblia no Terminal.
+Em dois tipos de idiomas estão inseridos. Funciona 💯 offline os ".txt. Experimente. Contribue, assim será possível outros países que não tem acesso a Bíblia Sagrada, mas tem acesso ao GitHub, podem baixar a Bíblia no Terminal.
 
 #
 
