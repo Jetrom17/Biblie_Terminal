@@ -24,7 +24,7 @@ Em dois tipos de idiomas estão inseridos. Funciona 💯 offline os ".txt. Algum
 
 `git clone https://github.com/Jetrom17/Biblie_Terminal`
 
-`cd Bible_Terminal`
+`cd Biblie_Terminal`
 
 `python3 bible.py`
 
